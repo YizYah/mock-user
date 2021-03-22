@@ -1,0 +1,15 @@
+userClass: user
+codeName: MyApp
+template:
+  dir: /home/yisroel/packages/packrat-ts-all/packrat
+  name: null
+  version: 1
+starter: /home/yisroel/packages/mock-user-all/mock-user.starter
+general:
+  packageName: mock-user
+  author: YizYah
+  owner: YizYah
+  description: effortless mocking of sequences of user input
+  repositoryName: mock-user
+  license: MIT
+  multi: false
